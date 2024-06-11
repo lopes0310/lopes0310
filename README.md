@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil💋
 
-<!--
-**lopes0310/lopes0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é laura lopes
 
-Here are some ideas to get you started:
+estou estudando no [alura](https://www.alura.com.br)
+esstou me desenvolvendo na linguagem javascript
+ultilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce entrar em contato comigo
+  
+  00001073739442sp@al.educacao.sp.go.br
+  @lauralopes
+
+
+![](https://media1.tenor.com/m/L1SOy0Q8O7gAAAAC/eyebrow-raise-shrek.gif)
